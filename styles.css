@@ -76,8 +76,7 @@
     font-weight: 600;
     color: #280238;
     font-size: 28px;
-    margin-top: 4%;
-    margin-bottom: 4%;
+    margin-bottom: 2%;
     text-align: center;
 }
 
@@ -123,8 +122,8 @@
 .list1-cards .card .serial {
     color: #ffffff;
     font-weight: 600;
-    width: 10%;
-    padding:3%;
+    width: 7%;
+    padding:5%;
     vertical-align:middle;
     text-align: center;
     background-color: #01224B;
@@ -169,7 +168,6 @@
     width: 90%;
     margin-left: 5%;
     margin-right: 5%;
-    margin-bottom: 4%;
 }
 
 
@@ -184,7 +182,6 @@
     width: 100%;
     /* height: fit-content; */
     margin-top: 4%;
-    margin-bottom: 1%;
     padding-top: 10px;
     padding-bottom: 10px;
     background: transparent linear-gradient(90deg, #14012F 0%, #50D4F3 100%) 0% 0% no-repeat padding-box;
